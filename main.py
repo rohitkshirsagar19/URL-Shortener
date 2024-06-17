@@ -1,7 +1,7 @@
 import requests
 from logo import Logo
 
-TOKEN = " ENTER YOUR TOKEN HERE FROM BITLY API  "
+TOKEN = " ENTER YOUR TOKEN HERE FROM BITLY FOR API USE "
 
 def get_link():
     LINK = input("Enter Link: ")
